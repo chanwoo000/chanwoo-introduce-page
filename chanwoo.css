@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "HiMelody" ;
+    src: url(/Hi_Melody/HiMelody-Regular.ttf) format("truetype");
+}
+
+.one {
+    text-align: center;
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    font-size: 30px; 
+}
+
+body {
+    /* background-image: url(image/back.jpeg); */
+    background-color:papayawhip;
+    font-family: HiMelody;
+}
+
+a{
+    text-decoration-line: none;
+    color:brown;
+}
+
+.menu{
+    font-size: 80px;
+    text-align: center;
+    padding-top:10px ;
+    height: 100px;
+}
+.btn1{
+    font-size:50px;
+    padding: 15px 30px;
+    font-family: HiMelody;
+    background-color:papayawhip;
+    color:mediumseagreen;
+    border: 4px solid;
+    border-radius: 40px;
+    letter-spacing: 4px;
+    transition: all 0.4s;
+}
+.btn2{
+    font-size:50px;
+    padding: 15px 30px;
+    font-family: HiMelody;
+    background-color:papayawhip;
+    color: cornflowerblue;
+    border: 4px solid;
+    border-radius: 40px;
+    letter-spacing: 4px;
+    transition: all 0.4s;
+}
+.btn:focus{
+    outline: none;
+}
+
+.btn1:hover{
+    background-color: mediumseagreen;
+    color:papayawhip
+}
+.btn2:hover{
+    background-color: cornflowerblue;
+    color:papayawhip
+}

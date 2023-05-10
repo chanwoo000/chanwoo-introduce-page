@@ -1,0 +1,18 @@
+.list_img{
+    border-radius: 15%;
+    background-color:peru;
+    display: inline-block;
+    padding: 0.5rem ;
+    margin-top: 30px;
+    max-width: 40%;
+    max-height: 50%;
+} 
+.about{
+    text-align: center;
+    font-size: 30px;
+    color: mediumseagreen;
+}
+h1{
+    font-size: 80px;
+    color: mediumseagreen;
+}

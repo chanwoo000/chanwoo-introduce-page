@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-size: 80px;
+    color:cornflowerblue;
+}
+p{
+    text-align: center;
+    font-size: 50px;
+}
+.img{
+    border-radius: 80%;
+    width:400px;
+    height: 400px;
+}
+.video{
+    border-radius: 80%;
+    width:470px;
+    height: 500px;
+}
+.fv{
+    float:right;
+    text-align: center;
+    margin:5px;
+    border: 1px black;
+
+}
+.favorite{
+    display: flex;
+    justify-content: center;
+}
