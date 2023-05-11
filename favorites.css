@@ -18,9 +18,8 @@ p{
     height: 400px;
 }
 .video{
-    border-radius: 30%;
-    width:400px;
-    height: 500px;
+    width: 90%;
+    height: 70%; 
 }
 .fv{
     float:right;
@@ -30,7 +29,7 @@ p{
 
 }
 .favorite{
-    width: 100%
+    width: 100%;
     display: flex;
     justify-content: center;
 }
