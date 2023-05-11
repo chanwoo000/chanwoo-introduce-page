@@ -1,6 +1,6 @@
 @font-face {
     font-family: "HiMelody" ;
-    src: url(/Hi_Melody/HiMelody-Regular.ttf) format("truetype");
+    src: url(./Hi_Melody/HiMelody-Regular.ttf) format("truetype");
 }
 
 .one {
